@@ -29,7 +29,7 @@ define('DB_USER', 'u174175041_wpit');
 define('DB_PASSWORD', 'p8=3Qx1W7Vr8B|;B~W');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'server32.hostinger.vn');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
